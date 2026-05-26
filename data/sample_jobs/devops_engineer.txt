@@ -1,0 +1,32 @@
+Stanowisko: DevOps / Cloud Engineer
+Firma: CloudNative Polska | Wrocław / Remote
+
+O FIRMIE
+Konsultingowa firma chmurowa. Pomagamy klientom migrować do AWS i GCP.
+Pracujemy głównie z Kubernetes, Terraform i GitOps.
+
+ZAKRES OBOWIĄZKÓW
+- Projektowanie i wdrażanie infrastruktury w chmurze (AWS/GCP)
+- Zarządzanie klastrami Kubernetes (EKS/GKE)
+- Infrastructure as Code — Terraform, Helm
+- Wdrażanie CI/CD pipelines, automatyzacja deploymentu
+- Monitoring i alerting (Prometheus, Grafana)
+- Wsparcie zespołów developerskich w kwestiach platformowych
+
+WYMAGANIA
+- 3+ lata doświadczenia w DevOps / Platform Engineering
+- Kubernetes — wdrożenia produkcyjne, debugging, networking
+- Terraform — tworzenie i utrzymanie modułów
+- AWS lub GCP — certyfikacja mile widziana
+- Docker, container security
+- Bash lub Python do automatyzacji
+
+MILE WIDZIANE
+- ArgoCD lub Flux (GitOps)
+- Doświadczenie z Datadog lub Grafana stack
+- Certyfikat CKA/CKS
+
+OFERUJEMY
+Salary: 14 000–20 000 PLN B2B
+100% remote lub Wrocław
+Dofinansowanie certyfikacji AWS/GCP/CKA

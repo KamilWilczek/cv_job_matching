@@ -1,0 +1,24 @@
+Marek Zielinski — Python Developer (Junior/Mid)
+Gdansk, Polska | marek.zielinski@example.com
+
+DOŚWIADCZENIE
+
+Python Developer, Startup E-commerce (2022–2024)
+- Budowa REST API w Django REST Framework
+- Praca z PostgreSQL — proste zapytania, migracje Django ORM
+- Wdrożenie na Heroku, podstawy Docker
+- Pisanie testów jednostkowych (pytest)
+
+Staz: Python Backend, Agencja IT (2021–2022)
+- Wsparcie seniorów przy bugfixach w Django
+- Skrypty automatyzujące w Pythonie
+
+UMIEJĘTNOŚCI TECHNICZNE
+Python (3 lata), Django, Django REST Framework, PostgreSQL (podstawy)
+Docker (podstawy), Git, pytest
+
+WYKSZTAŁCENIE
+Informatyka, Politechnika Gdanska (2017–2021)
+
+JĘZYKI
+Polski (natywny), Angielski (B1)

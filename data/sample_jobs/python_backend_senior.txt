@@ -1,0 +1,31 @@
+Stanowisko: Senior Python Backend Developer
+Firma: TechCorp Sp. z o.o. | Kraków (hybrydowo)
+
+O FIRMIE
+Budujemy platformę SaaS dla sektora finansowego. Obsługujemy 500k+ użytkowników.
+Zespół: 25 osób, 8 inżynierów backendowych.
+
+ZAKRES OBOWIĄZKÓW
+- Projektowanie i implementacja REST API w Pythonie
+- Praca z bazami danych PostgreSQL — modelowanie, optymalizacja, migracje
+- Integracja z zewnętrznymi systemami płatności i bankowości
+- Code review, tworzenie dokumentacji technicznej
+- Udział w planowaniu architektury nowych funkcjonalności
+
+WYMAGANIA
+- Min. 5 lat doświadczenia w Pythonie (backend)
+- Bardzo dobra znajomość FastAPI lub Django
+- PostgreSQL — zaawansowane zapytania, indeksy, optymalizacja
+- Docker, podstawy Kubernetes lub AWS
+- Znajomość wzorców projektowych, clean code, SOLID
+- Angielski B2+
+
+MILE WIDZIANE
+- Doświadczenie z Kafka lub RabbitMQ
+- Znajomość Redis
+- Doświadczenie w FinTech
+
+OFERUJEMY
+Salary: 15 000–22 000 PLN B2B
+Praca hybrydowa (3 dni biuro), elastyczne godziny
+Budżet szkoleniowy 5 000 PLN/rok

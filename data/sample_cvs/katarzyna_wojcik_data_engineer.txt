@@ -1,0 +1,26 @@
+Katarzyna Wojcik — Data Engineer
+Poznan, Polska | katarzyna.wojcik@example.com
+
+DOŚWIADCZENIE
+
+Data Engineer, Retail Analytics Corp (2020–2024)
+- Budowa i utrzymanie pipeline'ów ETL w Pythonie (Apache Airflow)
+- Praca z hurtownią danych (Snowflake, BigQuery)
+- Transformacje danych z dbt, testy jakości danych (Great Expectations)
+- Spark (PySpark) do przetwarzania dużych zbiorów danych
+- SQL na co dzień — złożone zapytania, optymalizacja, partycjonowanie
+
+Junior Data Engineer, Telco (2018–2020)
+- ETL w Pythonie i SQL
+- Raportowanie w Tableau
+
+UMIEJĘTNOŚCI TECHNICZNE
+Python (6 lat), SQL (zaawansowany), Apache Airflow, dbt, PySpark
+Bazy: PostgreSQL, Snowflake, BigQuery, Redshift
+Narzędzia: Docker, Git, Terraform (podstawy)
+
+WYKSZTAŁCENIE
+Matematyka stosowana, UAM Poznan (2014–2018)
+
+JĘZYKI
+Polski (natywny), Angielski (C1)

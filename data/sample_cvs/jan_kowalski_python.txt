@@ -1,0 +1,27 @@
+Jan Kowalski — Senior Python Developer
+Kraków, Polska | jan.kowalski@example.com
+
+DOŚWIADCZENIE
+
+Backend Lead, FinTech Startup (2021–2024)
+- Projektowanie i implementacja mikroserwisów w Pythonie (FastAPI, asyncio)
+- Budowa pipeline'ów przetwarzania danych w czasie rzeczywistym (Kafka, Redis)
+- Optymalizacja zapytań PostgreSQL — redukcja czasu odpowiedzi o 60%
+- Wdrożenie CI/CD na AWS (ECS, RDS, GitHub Actions)
+- Code review, mentoring 3 juniorów
+
+Python Developer, Software House (2018–2021)
+- REST API w Django REST Framework dla klientów z branży e-commerce
+- Integracje z płatnościami (Stripe, PayU), SMS (Twilio)
+- Testy jednostkowe i integracyjne (pytest, factory_boy) — pokrycie 85%
+- Migracje baz danych, optymalizacja indeksów
+
+UMIEJĘTNOŚCI TECHNICZNE
+Python (7 lat), FastAPI, Django, PostgreSQL, Redis, Docker, Kubernetes, AWS, Git
+Znajomość: RabbitMQ, Kafka, SQLAlchemy, Celery
+
+WYKSZTAŁCENIE
+Informatyka, AGH Kraków (2014–2018)
+
+JĘZYKI
+Polski (natywny), Angielski (B2)

@@ -1,0 +1,26 @@
+Piotr Wiśniewski — DevOps / Platform Engineer
+Wrocław, Polska | piotr.wisniewski@example.com
+
+DOŚWIADCZENIE
+
+Platform Engineer, Scaleup SaaS (2022–2024)
+- Zarządzanie klastrem Kubernetes (EKS) — 200+ podów, 15 mikroserwisów
+- Infrastructure as Code: Terraform, Helm, ArgoCD (GitOps)
+- Observability: Prometheus + Grafana, alerting, SLO/SLI dashboard
+- Redukcja kosztów AWS o 35% przez rightsizing i spot instances
+- Incident response, postmortemy, runbooki
+
+DevOps Engineer, Korporacja Polska (2019–2022)
+- Jenkins pipelines, migracja na GitHub Actions
+- Docker, docker-compose dla środowisk developerskich
+- Ansible, konfiguracja serwerów on-prem
+- Monitoring Zabbix → Datadog
+
+UMIEJĘTNOŚCI TECHNICZNE
+Kubernetes, Docker, Terraform, AWS (EC2, EKS, RDS, S3, Lambda)
+CI/CD: GitHub Actions, Jenkins, ArgoCD
+Języki skryptowe: Bash, Python, Go (podstawowy)
+Monitoring: Prometheus, Grafana, Datadog
+
+WYKSZTAŁCENIE
+Automatyka i Robotyka, PWr Wrocław (2015–2019)

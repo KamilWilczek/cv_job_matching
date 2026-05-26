@@ -1,0 +1,26 @@
+Anna Nowak — Frontend Developer
+Warszawa, Polska | anna.nowak@example.com
+
+DOŚWIADCZENIE
+
+Frontend Developer, AgencjaDigital (2020–2024)
+- Budowa aplikacji SPA w React (TypeScript, Redux Toolkit, React Query)
+- Implementacja designu wg. Figma, ścisła współpraca z UX designerami
+- Optymalizacja Core Web Vitals — LCP poniżej 2.5s, CLS < 0.1
+- Migracja legacy kodu z AngularJS do React — 40 000 linii kodu
+- Wdrożenie Storybook dla biblioteki komponentów (80+ komponentów)
+
+Junior Frontend Developer, Korporacja XYZ (2018–2020)
+- HTML, CSS, vanilla JavaScript, jQuery
+- Responsywne strony dla klientów korporacyjnych
+
+UMIEJĘTNOŚCI TECHNICZNE
+React, TypeScript, JavaScript (ES6+), Next.js, HTML5, CSS3/SASS
+Narzędzia: Vite, Webpack, Jest, Testing Library, Storybook, Figma
+Znajomość: Node.js, GraphQL, REST API integration
+
+WYKSZTAŁCENIE
+Grafika komputerowa, SWPS Warszawa (2014–2018)
+
+JĘZYKI
+Polski (natywny), Angielski (C1)
